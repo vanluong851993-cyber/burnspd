@@ -1,0 +1,6 @@
+{
+  "name": "SPD Programmer Pro",
+  "description": "Professional DDR3, DDR4, and DDR5 RAM SPD EEPROM programmer, reader, hex editor, CRC validator, and hardware interface tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
